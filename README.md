@@ -18,6 +18,6 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 11. Generated staging versions powered by pull requests enabling preview versions of your site before publishing.
 
 Here you can see the clone: https://nice-mud-0ac99ad10.1.azurestaticapps.net/
-
+Project demo: https://www.youtube.com/watch?v=NCWi0bf3mqo
 ![Screenshot (153)](https://user-images.githubusercontent.com/76639713/152797110-227d076b-2e53-4141-8d3a-baaba9b47dbf.png)
 
